@@ -17,7 +17,7 @@ import logoFate from '../assets/logo-fate.png';
     <div class="container hero-container">
       <div class="hero-content">
         <h1 class="hero-title">
-          <span class="gradient-text">#1 Subliminal</span> Assistant
+          <span class="gradient-text">Fate Subliminals</span>
         </h1>
         <p class="hero-subtitle">
           Transform Your Life Through Subliminal Messaging
@@ -144,12 +144,8 @@ import logoFate from '../assets/logo-fate.png';
   margin-bottom: 1.5rem;
   position: relative;
   display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-
-.hero-title div {
-  display: flex;
+  align-items: center;
+  white-space: nowrap;
 }
 
 .gradient-text {
