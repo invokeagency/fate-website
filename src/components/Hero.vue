@@ -90,7 +90,7 @@ import logoFate from '../assets/logo-fate.png';
   left: -10%;
   right: -10%;
   bottom: -10%;
-  background-image: url('../assets/explainer-science.jpg');
+  background-image: url('@/assets/explainer-science.jpg');
   background-size: cover;
   background-color: rgba(0, 0, 0, 0.9); /* dark overlay */
   background-blend-mode: multiply;
