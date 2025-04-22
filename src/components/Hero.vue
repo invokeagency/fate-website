@@ -20,13 +20,13 @@ import logoFate from '../assets/logo-fate.png';
           <span class="gradient-text">#1 Subliminal</span> Assistant
         </h1>
         <p class="hero-subtitle">
-          Transform Your Life with Powerful Subliminal Messages
+          Transform Your Life Through Subliminal Messaging
         </p>
         
         <!-- Download Section Integrated -->
         <div class="download-section">
           <p class="download-description">
-            Available on iOS and Android devices. Start transforming your life today.
+            Download now on iOS and Android to begin your transformation
           </p>
           <div class="download-buttons">
             <a href="#" class="download-button">
@@ -139,10 +139,17 @@ import logoFate from '../assets/logo-fate.png';
 }
 
 .hero-title {
-  font-size: 4rem;
-  line-height: 1.1;
+  font-size: 4.5rem;
+  line-height: 1;
   margin-bottom: 1.5rem;
   position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.hero-title div {
+  display: flex;
 }
 
 .gradient-text {
@@ -325,7 +332,7 @@ import logoFate from '../assets/logo-fate.png';
   }
 
   .hero-title {
-    font-size: 3rem;
+    font-size: 3.5rem;
   }
 
   .download-section {
@@ -373,6 +380,10 @@ import logoFate from '../assets/logo-fate.png';
   .main-image {
     width: 250px;
     height: 250px;
+  }
+
+  .hero-title {
+    font-size: 3rem;
   }
 }
 
