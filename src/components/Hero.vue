@@ -1,5 +1,6 @@
 <script setup>
 import { ref } from 'vue';
+import logoFate from '../assets/logo-fate.png';
 </script>
 
 <template>
@@ -64,7 +65,7 @@ import { ref } from 'vue';
       </div>
       <div class="hero-image">
         <div class="logo-container">
-          <img src="../assets/logo-fate.png" alt="Fate Subliminals" class="main-image" />
+          <img :src="logoFate" alt="Fate Subliminals" class="main-image" />
         </div>
       </div>
     </div>
