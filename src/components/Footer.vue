@@ -14,7 +14,7 @@ export default {
           <router-link to="/license">License Agreement</router-link>
         </div>
         <span class="separator">|</span>
-        <p class="copyright">© {{ new Date().getFullYear() }} Fate Subliminals. All rights reserved.</p>
+        <p class="copyright">© {{ new Date().getFullYear() }} MintMarketingLLC. All rights reserved.</p>
       </div>
     </div>
   </footer>
