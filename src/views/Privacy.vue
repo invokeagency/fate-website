@@ -14,7 +14,7 @@
           <li>Engage with us in other related ways, including any sales, marketing, or events</li>
         </ul>
 
-        <p>Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at support@fatesubliminals.com.</p>
+        <p>Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at nickisnot@gmail.com.</p>
 
         <h2>SUMMARY OF KEY POINTS</h2>
         <ul>
@@ -63,7 +63,7 @@
         75 East 3rd Street<br>
         Sheridan, WY 82801</p>
         <p>Founder: Nikoloz Zviadadze</p>
-        <p>Email: support@fatesubliminals.com</p>
+        <p>Email: nickisnot@gmail.com</p>
       </div>
     </div>
   </div>

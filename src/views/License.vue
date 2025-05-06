@@ -20,7 +20,7 @@ export default {
 
         <p>When you order ("Order") any Products, or otherwise use or access the Products, you agree to be bound by these Terms and all applicable laws, rules and regulations. You may also be asked to click "I accept" at the appropriate place prior to your purchase of access to the Products. At such time, if you do not click "I accept", you may not be able to complete such purchase or gain such access. By using the Products, you indicate that you accept these Terms and that you agree to abide by them. If you do not agree to these Terms, please refrain from using the Products.</p>
 
-        <p>Our contact email address is support@fatesubliminals.com. All correspondence to Fate Subliminals including any queries you may have regarding your use of the Products or these Terms should be sent to this contact email address.</p>
+        <p>Our contact email address is nickisnot@gmail.com. All correspondence to Fate Subliminals including any queries you may have regarding your use of the Products or these Terms should be sent to this contact email address.</p>
 
         <h2>ARBITRATION NOTICE AND CLASS ACTION WAIVER</h2>
         <p>PLEASE NOTE THAT THESE TERMS CONTAIN AN ARBITRATION CLAUSE. EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN THE ARBITRATION CLAUSE, YOU AND FATE SUBLIMINALS AGREE THAT DISPUTES RELATING TO THESE TERMS OR YOUR USE OF THE PRODUCTS WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, AND YOU WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.</p>
@@ -103,7 +103,7 @@ export default {
         <p>The Fate Subliminals logo and all other Fate Subliminals product or service marks are trademarks of Fate Subliminals. All intellectual property, other trademarks, logos, images, product and company names displayed or referred to on or in the Products are the property of their respective owners. Nothing grants you any license or right to use, alter or remove or copy such material. Your misuse of the trademarks displayed on the Products is strictly prohibited. Fate Subliminals will enforce its trademark rights to the fullest extent of the law, including the seeking of criminal prosecution.</p>
 
         <h2>AVAILABILITY OF PRODUCTS</h2>
-        <p>Although we aim to offer you the best service possible, we make no promise that the Products will meet your requirements and we cannot guarantee that the Products will be fault free. If a fault occurs in the Products, please report it to us at support@fatesubliminals.com and we will review your complaint and, where we determine it is appropriate to do so, correct the fault. If the need arises, we may suspend access to the Products while we address the fault. We will not be liable to you if the Products are unavailable for a commercially reasonable period of time.</p>
+        <p>Although we aim to offer you the best service possible, we make no promise that the Products will meet your requirements and we cannot guarantee that the Products will be fault free. If a fault occurs in the Products, please report it to us at nickisnot@gmail.com and we will review your complaint and, where we determine it is appropriate to do so, correct the fault. If the need arises, we may suspend access to the Products while we address the fault. We will not be liable to you if the Products are unavailable for a commercially reasonable period of time.</p>
 
         <p>Your access to the Products may be occasionally restricted to allow for repairs, maintenance or the introduction of new facilities or Products. We will restore the Products as soon as we reasonably can.</p>
 
@@ -127,7 +127,7 @@ export default {
         75 East 3rd Street<br>
         Sheridan, WY 82801</p>
 
-        <p>For all inquiries: support@fatesubliminals.com</p>
+        <p>For all inquiries: nickisnot@gmail.com</p>
 
         <p>By using Fate Subliminals, you acknowledge that you have read, understood, and agree to be bound by these Terms.</p>
       </div>
