@@ -62,6 +62,11 @@ import logoFate from '../assets/logo-fate.png';
             </a>
           </div>
         </div>
+        <!-- Email Us Support Section -->
+        <div class="support-section">
+          <p class="support-description">Need help or have questions?</p>
+          <a href="mailto:nickiamnot@gmail.com" class="support-email-button" aria-label="Email support at Fate Subliminals">Email Us</a>
+        </div>
       </div>
       <div class="hero-image">
         <div class="logo-container">
@@ -476,6 +481,48 @@ import logoFate from '../assets/logo-fate.png';
   }
   100% {
     background-position: 0% center;
+  }
+}
+
+.support-section {
+  margin-top: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.support-description {
+  font-size: 1.05rem;
+  color: #d9d9d9;
+  margin-bottom: 0.7rem;
+  font-weight: 500;
+}
+
+.support-email-button {
+  display: inline-block;
+  padding: 0.7rem 1.6rem;
+  background-color: #6b46c1;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  text-decoration: none;
+  transition: background 0.2s, transform 0.2s;
+  box-shadow: 0 2px 12px rgba(107, 70, 193, 0.12);
+}
+
+.support-email-button:hover,
+.support-email-button:focus {
+  background-color: #9f7aea;
+  color: #fff;
+  transform: translateY(-2px) scale(1.03);
+  outline: none;
+}
+
+@media (max-width: 992px) {
+  .support-section {
+    align-items: center;
   }
 }
 </style> 
