@@ -28,7 +28,7 @@ import logoFate from '../assets/logo-fate.png';
           <p class="download-description">
             Download now on iOS to begin your transformation
           </p>
-          <div class="download-buttons">
+          <div class="action-buttons">
             <a href="https://apps.apple.com/us/app/fate-subliminal-rituals/id6744332634?platform=iphone" class="download-button">
               <div class="button-content">
                 <div class="icon">
@@ -43,12 +43,8 @@ import logoFate from '../assets/logo-fate.png';
                 </div>
               </div>
             </a>
+            <a href="mailto:nickiamnot@gmail.com" class="support-email-button" aria-label="Email support at Fate Subliminals">Email Us</a>
           </div>
-        </div>
-        <!-- Email Us Support Section -->
-        <div class="support-section">
-          <p class="support-description">Need help or have questions?</p>
-          <a href="mailto:nickiamnot@gmail.com" class="support-email-button" aria-label="Email support at Fate Subliminals">Email Us</a>
         </div>
       </div>
       <div class="hero-image">
@@ -195,21 +191,48 @@ import logoFate from '../assets/logo-fate.png';
   font-weight: 500;
 }
 
-.download-buttons {
+.action-buttons {
   display: flex;
   gap: 1.2rem;
+  align-items: center;
+}
+
+.download-button,
+.support-email-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1.5rem;
+  border-radius: 12px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  text-decoration: none;
+  transition: background-color 0.2s, transform 0.2s;
+  min-height: 60px;
+  flex: 1;
 }
 
 .download-button {
   background-color: rgba(255, 255, 255, 0.1);
-  border-radius: 12px;
-  padding: 0.75rem 1.5rem;
-  transition: background-color 0.2s, transform 0.2s;
 }
 
 .download-button:hover {
   background-color: rgba(255, 255, 255, 0.15);
   transform: translateY(-3px);
+}
+
+.support-email-button {
+  background-color: #6b46c1;
+  color: #fff;
+  box-shadow: 0 2px 12px rgba(107, 70, 193, 0.12);
+}
+
+.support-email-button:hover,
+.support-email-button:focus {
+  background-color: #9f7aea;
+  color: #fff;
+  transform: translateY(-2px) scale(1.03);
+  outline: none;
 }
 
 .button-content {
@@ -323,7 +346,7 @@ import logoFate from '../assets/logo-fate.png';
     margin-top: 2.5rem;
   }
   
-  .download-buttons {
+  .action-buttons {
     justify-content: center;
   }
 
@@ -342,7 +365,7 @@ import logoFate from '../assets/logo-fate.png';
 }
 
 @media (max-width: 768px) {
-  .download-buttons {
+  .action-buttons {
     flex-direction: column;
     align-items: center;
     gap: 1rem;
@@ -464,48 +487,6 @@ import logoFate from '../assets/logo-fate.png';
   }
   100% {
     background-position: 0% center;
-  }
-}
-
-.support-section {
-  margin-top: 2.5rem;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-}
-
-.support-description {
-  font-size: 1.05rem;
-  color: #d9d9d9;
-  margin-bottom: 0.7rem;
-  font-weight: 500;
-}
-
-.support-email-button {
-  display: inline-block;
-  padding: 0.7rem 1.6rem;
-  background-color: #6b46c1;
-  color: #fff;
-  border: none;
-  border-radius: 8px;
-  font-weight: 600;
-  font-size: 1.1rem;
-  text-decoration: none;
-  transition: background 0.2s, transform 0.2s;
-  box-shadow: 0 2px 12px rgba(107, 70, 193, 0.12);
-}
-
-.support-email-button:hover,
-.support-email-button:focus {
-  background-color: #9f7aea;
-  color: #fff;
-  transform: translateY(-2px) scale(1.03);
-  outline: none;
-}
-
-@media (max-width: 992px) {
-  .support-section {
-    align-items: center;
   }
 }
 </style> 
