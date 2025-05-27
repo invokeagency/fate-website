@@ -26,10 +26,10 @@ import logoFate from '../assets/logo-fate.png';
         <!-- Download Section Integrated -->
         <div class="download-section">
           <p class="download-description">
-            Download now on iOS and Android to begin your transformation
+            Download now on iOS to begin your transformation
           </p>
           <div class="download-buttons">
-            <a href="#" class="download-button">
+            <a href="https://apps.apple.com/us/app/fate-subliminal-rituals/id6744332634?platform=iphone" class="download-button">
               <div class="button-content">
                 <div class="icon">
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
@@ -40,23 +40,6 @@ import logoFate from '../assets/logo-fate.png';
                 <div class="button-text">
                   <div class="small-text">Download on the</div>
                   <div class="big-text">App Store</div>
-                </div>
-              </div>
-            </a>
-
-            <a href="#" class="download-button">
-              <div class="button-content">
-                <div class="icon">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M3.60922 2.71333C3.42303 2.94133 3.32422 3.28 3.32422 3.70667V20.2933C3.32422 20.72 3.42303 21.0587 3.60922 21.2867L3.69178 21.3693L13.5371 11.5267V11.4747V11.4227L3.69178 1.58L3.60922 1.66133Z" fill="currentColor"/>
-                    <path d="M17.6484 15.6373L13.5364 11.5266V11.4746V11.4226L17.6497 7.31198L17.7497 7.36931L22.5031 10.0533C23.781 10.804 23.781 12.1466 22.5031 12.9013L17.7497 15.584L17.6484 15.6373Z" fill="currentColor"/>
-                    <path d="M17.7497 15.5827L13.5364 11.4707L3.60938 21.3853C4.05797 21.8693 4.80371 21.9293 5.64905 21.4467L17.7497 15.5827Z" fill="currentColor"/>
-                    <path d="M17.7497 7.31466L5.64905 1.45066C4.80371 0.968 4.05797 1.02933 3.60938 1.51333L13.5377 11.4733L17.7497 7.31466Z" fill="currentColor"/>
-                  </svg>
-                </div>
-                <div class="button-text">
-                  <div class="small-text">Get it on</div>
-                  <div class="big-text">Google Play</div>
                 </div>
               </div>
             </a>
